@@ -1,0 +1,8 @@
+MONGO_URI = "MONGO_URL"
+JWT_SECRET = "random alphanumeric character"
+
+
+HOST = "smtp.gmail.com"
+USER="email address"
+PASS="password here"
+SERVICE="gmail or outlook "
